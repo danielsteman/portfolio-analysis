@@ -1,2 +1,2 @@
 port: 5432 
-dbname: de-giro-portfolio
+dbname: de_giro_portfolio
